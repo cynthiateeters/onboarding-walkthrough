@@ -1,4 +1,4 @@
-# Student Walkthrough Scenario v6: Manual Profile Loading with Simple Git Extension
+# Student Walkthrough Scenario: Manual Profile Loading with Simple Git Extension
 
 **Date:** July 22, 2025 at 9:58 AM ET
 
